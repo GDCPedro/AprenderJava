@@ -1,5 +1,9 @@
 import java.util.*;
 
+/**
+ * 测试刚刚生成的SSH
+ */
+
 public class HashTableDemo {
   /**
    * Hashtable类提供了一种在用户定义键结构的基础上来组织数据的手段。
