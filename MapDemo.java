@@ -38,7 +38,7 @@ public class MapDemo {
       m1.remove("Gdc");
     } catch (Exception e) {
       // TODO: handle exception
-      System.out.println("not existed");
+      System.out.println(e);
     }
     System.out.println(m1.remove("Alan"));
     System.out.println("\t" + m1);
